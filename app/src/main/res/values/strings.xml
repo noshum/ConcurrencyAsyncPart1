@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncBitmap</string>
+    <string name="click">CLICK ME</string>
+    <string name="or_click">OR CLICK ME</string>
+</resources>
